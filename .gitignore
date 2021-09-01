@@ -1,0 +1,4 @@
+go.mod
+go.sum
+client_secret.json
+*.exe

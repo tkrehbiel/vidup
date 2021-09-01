@@ -7,3 +7,5 @@ The idea is to schedule a script to run once a day, which looks into a directory
 Some manual user intervention may be required from time to time to authenticate YouTube credentials through a web browser.
 
 The code for vidup is based almost entirely on [Google's YouTube Data API example golang code](https://developers.google.com/youtube/v3/code_samples/go).
+
+Some inspiration also from https://github.com/porjo/youtubeuploader.
